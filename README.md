@@ -1,5 +1,6 @@
-### Hi there 👋
+[![Aurelien30000's github stats](https://github-readme-stats.vercel.app/api?username=Aurelien30000&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelien30000&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Aurelien30000/Aurelien30000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
