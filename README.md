@@ -1,4 +1,22 @@
-Hi :D
+Hi :D,
+
+French computer science student. Currently studying/learning and working on various projects.
+Feel free to get in touch with me to discuss or get help somehow!
+
+**__Knowledge:__**
+- Java _(confirmed)_
+- Java _(confirmed)_
+- Python _(intermediate)_
+- GoLang _(amateur)_
+- Php _(amateur)_
+- C#, C++  _(amateur)_
+
+**__Known Projects/Commitment:__**
+- Owner of DomiCraft, a French Minecraft server on latest version that aims to offer a nice and varied gameplay among its games.
+- Maintainer of an optimized Stackmob fork, a stacking Spigot plugin.
+- Developer of Landlord, a region managing/protection Spigot plugin.
+- Contributer to several modest Minecraft Spigot/Paper plugins such as InventoryRollback, ArmorStandTools. _(more on my profile)_
+
 
 [![Aurelien30000's github stats](https://github-readme-stats.vercel.app/api?username=Aurelien30000&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
