@@ -3,16 +3,16 @@ Hi :D,
 French computer science student. Currently studying/learning and working on various projects.
 Feel free to get in touch with me to discuss or get help somehow!
 
-**__Knowledge:__**
-- Java _(confirmed)_
+**__🌱Knowledge:__**
 - Java _(confirmed)_
 - Python _(intermediate)_
 - GoLang _(amateur)_
 - Html, JavaScript, Css, Php _(amateur)_
 - C#, C++ _(amateur)_
 - Network (Linux) and cyber security _(amateur)_
+_- Learning..._
 
-**__Known Projects/Commitment:__**
+**__🔭Known Projects/Commitment:__**
 - Owner of DomiCraft, a French Minecraft server on latest version that aims to offer a nice and varied gameplay among its games.
 - Maintainer of an optimized Stackmob fork, a stacking Spigot plugin.
 - Developer of Landlord, a region managing/protection Spigot plugin.
