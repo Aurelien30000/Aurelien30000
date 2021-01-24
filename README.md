@@ -8,8 +8,10 @@ Feel free to get in touch with me to discuss or get help somehow!
 - Java _(confirmed)_
 - Python _(intermediate)_
 - GoLang _(amateur)_
-- Php _(amateur)_
-- C#, C++  _(amateur)_
+- Html, JavaScript, Css, Php _(amateur)_
+- C#, C++ _(amateur)_
+
+- Network (Linux) and cyber security _(amateur)_
 
 **__Known Projects/Commitment:__**
 - Owner of DomiCraft, a French Minecraft server on latest version that aims to offer a nice and varied gameplay among its games.
