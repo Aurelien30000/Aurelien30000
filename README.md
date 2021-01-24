@@ -10,7 +10,6 @@ Feel free to get in touch with me to discuss or get help somehow!
 - GoLang _(amateur)_
 - Html, JavaScript, Css, Php _(amateur)_
 - C#, C++ _(amateur)_
-
 - Network (Linux) and cyber security _(amateur)_
 
 **__Known Projects/Commitment:__**
