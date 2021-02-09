@@ -1,6 +1,6 @@
 Hi :D,
 
-French computer science student. Currently studying/learning and working on various projects.
+I am a French computer science student. Currently studying/learning and working on various projects.
 Feel free to get in touch with me to discuss or get help somehow!
 
 **__🌱 Knowledge 🌱:__**
