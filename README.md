@@ -21,7 +21,7 @@ Feel free to get in touch with me to discuss or get help somehow!
 
 [![Aurelien30000's github stats](https://github-readme-stats.aurelien30000.vercel.app/api?username=Aurelien30000&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Aurelien30000/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.aurelien30000.vercel.app/api/top-langs/?username=Aurelien30000&exclude_repo=github-readme-stats&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Aurelien30000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.aurelien30000.vercel.app/api/top-langs/?username=Aurelien30000&exclude_repo=github-readme-stats,deploy-code-server&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Aurelien30000/github-readme-stats)
 <!--
 **Aurelien30000/Aurelien30000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
