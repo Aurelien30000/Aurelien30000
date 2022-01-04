@@ -19,7 +19,7 @@ Feel free to get in touch with me to discuss or get help somehow!
 - Maintainer of an optimized [StackMob](https://github.com/Aurelien30000/StackMob-5) fork, a stacking Spigot plugin.
 - Maintainer of [FastAsyncVoxelSniper](https://github.com/IntellectualSites/FastAsyncVoxelSniper), a modern and optimised fork of the former [VoxelSniper](https://github.com/TVPT/VoxelSniper) _build_ plugin.
 - Developer of [LandLord](https://github.com/LandlordPlugin/LandLord), a region managing/protection Spigot plugin.
-- Contributer to several modest Minecraft Spigot/Paper plugins such as [InventoryRollback](https://github.com/Aurelien30000/Inventory-Rollback), [ArmorStandTools](https://github.com/Aurelien30000/ArmorStandTools), . _(more on my profile)_
+- Contributer to several modest Minecraft Spigot/Paper plugins such as [InventoryRollback](https://github.com/Aurelien30000/Inventory-Rollback), [ArmorStandTools](https://github.com/Aurelien30000/ArmorStandTools). _(more on my profile)_
 
 
 [![Aurelien30000's github stats](https://github-readme-stats-3sd0h9n7h-aurelien30000.vercel.app/api?username=Aurelien30000&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Aurelien30000/github-readme-stats)
