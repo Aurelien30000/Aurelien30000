@@ -6,11 +6,12 @@ Feel free to get in touch with me to discuss or get help somehow!
 **__🌱 Knowledge 🌱:__**
 - Java _(confirmed)_
 - Python _(intermediate)_
+- C# _(intermediate)_
 - Unix _(intermediate)_
 - GoLang _(amateur)_
-- C#, C++ _(amateur)_
+- C++ _(amateur)_
 - PowerShell _(amateur)_
-- _Horrific_ OCaml _(amateur)_
+- OCaml _(amateur)_
 - Network management and security _(amateur)_
 - _Learning..._
 
