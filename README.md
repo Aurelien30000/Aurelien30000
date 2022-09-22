@@ -7,6 +7,7 @@ Feel free to get in touch with me to discuss or get help somehow!
 - Java _(confirmed)_
 - Python _(intermediate)_
 - C# _(intermediate)_
+- C _(intermediate)_
 - Unix _(intermediate)_
 - GoLang _(amateur)_
 - C++ _(amateur)_
@@ -16,9 +17,9 @@ Feel free to get in touch with me to discuss or get help somehow!
 - _Learning..._
 
 **__🔭 Known Projects/Commitment 🔭:__**
-- Owner of [DomiCraft](https://domicraft.fr), a French Minecraft server on latest version that aims to offer a nice and varied gameplay among its games.
+- Owner and maintainer of [DomiCraftFR](https://github.com/organizations/DomiCraftFR), a French Minecraft server on latest version that aims to offer a nice and varied gameplay among its games.
 - Maintainer of an optimized [StackMob](https://github.com/Aurelien30000/StackMob-5) fork, a stacking Spigot plugin.
-- Maintainer of [FastAsyncVoxelSniper](https://github.com/IntellectualSites/FastAsyncVoxelSniper), a modern and optimised fork of the former [VoxelSniper](https://github.com/TVPT/VoxelSniper) _build_ plugin.
+- Maintainer of [FastAsyncVoxelSniper](https://github.com/IntellectualSites/FastAsyncVoxelSniper), a modern and optimized fork of the former [VoxelSniper](https://github.com/TVPT/VoxelSniper) _build_ plugin. Member of the [IntellectualSites](https://github.com/IntellectualSites) organization, focusing on the development of map editors and open source resources.
 - Developer of [LandLord](https://github.com/LandlordPlugin/LandLord), a region managing/protection Spigot plugin.
 - Contributer to several modest Minecraft Spigot/Paper plugins such as [InventoryRollback](https://github.com/Aurelien30000/Inventory-Rollback), [ArmorStandTools](https://github.com/Aurelien30000/ArmorStandTools). _(more on my profile)_
 
