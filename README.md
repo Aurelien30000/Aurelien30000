@@ -1,11 +1,11 @@
-Hello :D,
+Hello,
 
 I am a French computer science student. Currently studying/learning and working on various projects.
 Feel free to get in touch with me to discuss or get help somehow!
 
 **__🌱 Knowledge 🌱:__**
 - Java _(confirmed)_
-- Python, C, C++, C# _(intermediate)_
+- Python, C, C++, C#, JS _(intermediate)_
 - MySQL/PostgreSQL Databases _(intermediate)_
 - Unix Administration _(intermediate)_
 - Bash, Sed, Awk, Perl _(amateur)_
@@ -14,11 +14,11 @@ Feel free to get in touch with me to discuss or get help somehow!
 - _Learning..._
 
 **__🔭 Known Projects/Commitment 🔭:__**
-- Owner and maintainer of [DomiCraftFR](https://github.com/organizations/DomiCraftFR), a French Minecraft server on latest version that aims to offer a nice and varied gameplay among its games.
-- Maintainer of an optimized [StackMob](https://github.com/Aurelien30000/StackMob-5) fork, a stacking Spigot plugin.
+- Owner and maintainer of [DomiCraftFR](https://github.com/organizations/DomiCraftFR), a French Minecraft server that aims to offer a nice and varied gameplay among its games.
+- Maintainer of an optimized [StackMob](https://github.com/Aurelien30000/StackMob-5) fork, a mob stacking Spigot/Paper plugin.
 - Maintainer of [FastAsyncVoxelSniper](https://github.com/IntellectualSites/FastAsyncVoxelSniper), a modern and optimized fork of the former [VoxelSniper](https://github.com/TVPT/VoxelSniper) _build_ plugin. Member of the [IntellectualSites](https://github.com/IntellectualSites) organization, focusing on the development of map editors and open source resources.
-- Developer of [LandLord](https://github.com/LandlordPlugin/LandLord), a region managing/protection Spigot plugin.
-- Contributer to several modest Minecraft Spigot/Paper plugins such as [InventoryRollback](https://github.com/Aurelien30000/Inventory-Rollback), [ArmorStandTools](https://github.com/Aurelien30000/ArmorStandTools). _(more on my profile)_
+- Developer of [LandLord](https://github.com/LandlordPlugin/LandLord), a region managing/protection Spigot/Paper plugin.
+- Contributer to several modest Minecraft Spigot/Paper plugins such as [InventoryRollback](https://github.com/Aurelien30000/Inventory-Rollback), [ArmorStandTools](https://github.com/Aurelien30000/ArmorStandTools) _(more on my profile)_.
 
 ---
 
